@@ -12,10 +12,10 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
         <!--<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>-->
-        <link rel="stylesheet" href="public/assets/css/normalize.min.css">
-        <link rel="stylesheet" href="public/assets/fonts/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="fonts/stylesheet.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
         <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
 
 
